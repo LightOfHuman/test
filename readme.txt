@@ -6,3 +6,5 @@ Creating a new branch is quick.
 master testmaster test
 devest
 atilanka is a wonderful place
+bug test
+
